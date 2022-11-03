@@ -1,6 +1,6 @@
 # Docker / FastAPI / SQLite
 
-This is a template repository for an opinionated proof-of-concept architecture. 
+Create a micro-service to address some functionality which is useful to derive simplified summary statistics (mean, min, max) on a dataset. 
 
 ## Guiding Principles
 
